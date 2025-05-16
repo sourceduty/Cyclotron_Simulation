@@ -1,0 +1,49 @@
+Cyclotron Simulation
+|
+|-- Particle Dynamics
+|   |-- Lorentz Force Law
+|   |   |-- Electric Field (E)
+|   |   |-- Magnetic Field (B)
+|   |   |-- Particle Motion Equations
+|   |
+|   |-- Particle Tracking
+|   |   |-- Particle Trajectories
+|   |   |-- Time Step Calculations
+|   |   |-- Beam Stability
+|
+|-- Accelerator Lattice
+|   |-- Magnetic Field Configuration
+|   |   |-- Dipole Magnets
+|   |   |-- Quadrupole Magnets
+|   |   |-- Sextupole Magnets
+|   |
+|   |-- Radio-frequency Cavities
+|   |   |-- Acceleration Mechanism
+|   |   |-- RF Power Distribution
+|   |   |-- Voltage Waveform
+|
+|-- Beam Dynamics
+|   |-- Beam Focusing
+|   |   |-- Quadrupole Focusing
+|   |   |-- Higher-order Corrections
+|   |
+|   |-- Beam Transport
+|   |   |-- Beam Envelope
+|   |   |-- Beam Profile
+|   |   |-- Beam Losses
+|
+|-- Simulated Output
+|   |-- Energy Distribution
+|   |-- Beam Position and Angle
+|   |-- Radiation Losses
+|   |-- Beam Parameters (e.g., Current, Energy)
+|
+|-- Optimization and Analysis
+|   |-- Beam Line Design
+|   |-- Stability Analysis
+|   |-- Performance Tuning
+|
+|-- Applications
+    |-- Medical Imaging
+    |-- Nuclear Physics Research
+    |-- Material Science
