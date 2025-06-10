@@ -10,4 +10,7 @@ The physics behind a cyclotron is based on the Lorentz force law, which governs 
 [Cyclotron Simulation](https://chatgpt.com/g/g-68269a21bb948191a64e240b3c8454c1-cyclotron-simulation) is specifically designed to help model and simulate the behavior of charged particles in cyclotron accelerators and similar high-energy particle accelerators. It assists in predicting how particles will move under the influence of magnetic and electric fields, solving the complex differential equations associated with these interactions. By using advanced numerical techniques, this GPT can simulate the trajectory of individual particles as they pass through various components of an accelerator, such as magnets and radio-frequency cavities. This type of simulation is essential for optimizing cyclotron designs, ensuring beam stability, and predicting the performance of accelerators in real-world settings. The GPT is programmed to guide users through the simulation process step-by-step, providing detailed insights and helping researchers understand the intricate behavior of accelerated particles. Whether for use in designing new accelerators or improving the performance of existing ones, this tool aids in fine-tuning parameters to achieve optimal results in a variety of scientific, medical, and industrial applications.
 
 #
+
 [Atomic Science](https://github.com/sourceduty/Atomic_Science)
+<br>
+[Wireless Power](https://github.com/sourceduty/Wireless_Power)
